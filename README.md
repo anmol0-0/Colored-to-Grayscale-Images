@@ -19,7 +19,7 @@ The script performs the following tasks:
 # Usage
 To use the script:
 1. Ensure you have Python installed on your system.
-2. Install the required libraries by running: pip install opencv-python numpy gradio pillow
+2. Install the required libraries by running-----> pip install opencv-python numpy gradio pillow
 3. Run the Python script.
 4. Once the script is running, access the provided web interface by navigating to the URL displayed in the terminal.
 5. Click the image icon, select a colored image from your device, and observe the grayscale conversion in real-time.
